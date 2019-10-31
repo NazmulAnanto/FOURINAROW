@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1562641675 source:f:\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1562641675 f:\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641675 f:\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 f:\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 source:f:\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1562641675 source:f:\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1562780184 source:f:\igraphics-master\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1562641675 f:\igraphics-master\opengl\include\gl.h
+
+1563018917 source:f:\igraphics-master\mywatch.cpp
+	"iGraphics.h"
+	"GL/gl.h"
+	<time.h>
+
+1563529470 source:f:\igraphics-master\solar.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1563301828 source:f:\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563533921 source:f:\igraphics-master\anup.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdlib.h>
+
+1563532117 source:f:\igraphics-master\ashfault6.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdio.h>
+
+1563529470 source:f:\igraphics-master\1805080\solar.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1562641675 f:\igraphics-master\1805080\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641675 f:\igraphics-master\1805080\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 f:\igraphics-master\1805080\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 f:\igraphics-master\1805080\opengl\include\gl.h
+
+1563560319 source:f:\igraphics-master\solar system project\solar.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1562641675 f:\igraphics-master\solar system project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641675 f:\igraphics-master\solar system project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 f:\igraphics-master\solar system project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641675 f:\igraphics-master\solar system project\opengl\include\gl.h
+
+1564848870 source:e:\igraphics\solar system project\solar.cpp
+	"iGraphics.h"
+	"gl.h"
+	<math.h>
+
+1562641676 e:\igraphics\solar system project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 e:\igraphics\solar system project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 e:\igraphics\solar system project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 e:\igraphics\solar system project\opengl\include\gl.h
+
+1565819473 source:e:\4inarow\hudaaai.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
+1562641676 e:\4inarow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 e:\4inarow\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\4inarow\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\4inarow\opengl\include\gl.h
+
+1566573588 source:e:\test\test.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"mainmenu.h"
+
+1562641676 e:\test\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 e:\test\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\test\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\test\opengl\include\gl.h
+
+1566572437 e:\test\mainmenu.h
+
+1566726970 source:e:\fourinarow\fourinarow.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"mainmenu.h"
+
+1562641676 e:\fourinarow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 e:\fourinarow\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\fourinarow\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 e:\fourinarow\opengl\include\gl.h
+
+1568358539 e:\fourinarow\mainmenu.h
+
+1566726970 source:g:\fourinarow\fourinarow.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"mainmenu.h"
+
+1562641676 g:\fourinarow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 g:\fourinarow\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 g:\fourinarow\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 g:\fourinarow\opengl\include\gl.h
+
+1567188258 g:\fourinarow\mainmenu.h
+
+1567142198 source:e:\fourinarow\fourinarow (1).cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"mainmenu.h"
+	"sound.h"
+	"gameover.h"
+	"settings.h"
+
+1568358536 e:\fourinarow\sound.h
+
+1567708572 e:\fourinarow\gameover.h
+
+1567853514 e:\fourinarow\settings.h
+
+1567156385 source:e:\fourinarow\fourinarow-1 (1).cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"mainmenu.h"
+	"sound.h"
+	"gameover.h"
+	"settings.h"
+
+1567182364 source:e:\fourinarow\four.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"mainmenu.h"
+	"sound.h"
+	"gameover.h"
+	"settings.h"
+
+1568410841 source:e:\fourinarow\fir.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"ctype.h"
+	"mainmenu.h"
+	"sound.h"
+
+1568530696 source:d:\fourinarow\fir.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"ctype.h"
+	"mainmenu.h"
+	"sound.h"
+
+1562641676 d:\fourinarow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 d:\fourinarow\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 d:\fourinarow\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 d:\fourinarow\opengl\include\gl.h
+
+1568538350 d:\fourinarow\mainmenu.h
+
+1568515133 d:\fourinarow\sound.h
+
+1567708571 d:\fourinarow\gameover.h
+
+1567853512 d:\fourinarow\settings.h
+
+1567400052 source:g:\fourinarow\fir.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"mainmenu.h"
+	"sound.h"
+	"gameover.h"
+	"settings.h"
+
+1567304998 g:\fourinarow\sound.h
+
+1567305550 g:\fourinarow\gameover.h
+
+1567305902 g:\fourinarow\settings.h
+
+1568437398 source:h:\fourinarow\fir.cpp
+	"iGraphics.h"
+	"gl.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"ctype.h"
+	"mainmenu.h"
+	"sound.h"
+
+1562641676 h:\fourinarow\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563171362 h:\fourinarow\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 h:\fourinarow\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563171362 h:\fourinarow\opengl\include\gl.h
+
+1568436460 h:\fourinarow\mainmenu.h
+
+1568437470 h:\fourinarow\sound.h
+
+1567532180 h:\fourinarow\gameover.h
+
+1567533960 h:\fourinarow\settings.h
+
+1568734553 source:d:\fourinarow\fir_erfan.cpp
+	"iGraphics.h"
+	"glut.h"
+	<stdio.h>
+
